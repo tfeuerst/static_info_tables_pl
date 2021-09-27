@@ -12,7 +12,11 @@
   },
   "authors": [
     {
-      "name": "Simon Schmidt",
+      "name": "Ephraim Härer",
+      "role": "Developer"
+    },
+    {
+      "name": "Timo Feuerstein",
       "role": "Developer"
     }
   ],
