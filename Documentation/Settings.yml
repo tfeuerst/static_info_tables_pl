@@ -4,15 +4,14 @@
 
 ---
 conf.py:
-  copyright: 2020
+  copyright: 2021
   project: Static Info Tables (pl)
-  version: 6.8
-  release: 6.8.1
+  version: 6.9
+  release: 6.9.2
   latex_documents:
   - - Index
     - static_info_tables_pl.tex
     - Static Info Tables (pl)
-    - Franz Holzinger
     - manual
   latex_elements:
     papersize: a4paper

@@ -30,13 +30,13 @@ Static Info Tables (it)
 		translation pack
 
 	:Copyright:
-		2019
+		2021
 
 	:Author:
-		Simon Schmidt
+		Ephraim Härer
 
 	:Email:
-		sfs@marketing-factory.de
+		mail@ephra.im
 
 	:License:
 		This document is published under the Open Content License
