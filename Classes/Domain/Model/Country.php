@@ -74,7 +74,7 @@ class Country extends AbstractEntity
     }
 
     /**
-     * Sets the Polish short name.
+     * Sets the Polish official name.
      *
      * @param string $officialNamePl
      * @return void
@@ -85,7 +85,7 @@ class Country extends AbstractEntity
     }
 
     /**
-     * Gets the Polish short name.
+     * Gets the Polish official name.
      *
      * @return string
      */
@@ -95,7 +95,7 @@ class Country extends AbstractEntity
     }
 
     /**
-     * Sets the Polish short name.
+     * Sets the Polish capital name.
      *
      * @param string $capitalPl
      * @return void
@@ -106,7 +106,7 @@ class Country extends AbstractEntity
     }
 
     /**
-     * Gets the Polish short name.
+     * Gets the Polish capital name.
      *
      * @return string
      */
