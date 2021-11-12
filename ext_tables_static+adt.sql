@@ -13,6 +13,7 @@ UPDATE static_countries SET cn_short_pl = 'Samoa Amerykańskie', cn_capital_pl =
 UPDATE static_countries SET cn_short_pl = 'Austria', cn_official_name_pl = 'Republika Austrii', cn_capital_pl = 'Wiedeń' WHERE cn_iso_2 = 'AT';
 UPDATE static_countries SET cn_short_pl = 'Australia', cn_capital_pl = 'Canberra' WHERE cn_iso_2 = 'AU';
 UPDATE static_countries SET cn_short_pl = 'Aruba', cn_capital_pl = 'Oranjestad' WHERE cn_iso_2 = 'AW';
+UPDATE static_countries SET cn_short_pl = 'Wyspy Alandzkie', cn_capital_pl = 'Maarianhamina' WHERE cn_iso_2 = 'AX';
 UPDATE static_countries SET cn_short_pl = 'Azerbejdżan', cn_official_name_pl = 'Republika Azerbejdżanu', cn_capital_pl = 'Baku' WHERE cn_iso_2 = 'AZ';
 UPDATE static_countries SET cn_short_pl = 'Bośnia i Hercegowina', cn_capital_pl = 'Sarajewo' WHERE cn_iso_2 = 'BA';
 UPDATE static_countries SET cn_short_pl = 'Barbados', cn_capital_pl = 'Bridgetown' WHERE cn_iso_2 = 'BB';
@@ -23,9 +24,11 @@ UPDATE static_countries SET cn_short_pl = 'Bułgaria', cn_official_name_pl = 'Re
 UPDATE static_countries SET cn_short_pl = 'Bahrajn', cn_official_name_pl = 'Królestwo Bahrajnu', cn_capital_pl = 'Manama' WHERE cn_iso_2 = 'BH';
 UPDATE static_countries SET cn_short_pl = 'Burundi', cn_official_name_pl = 'Republika Burundi', cn_capital_pl = 'Bużumbura' WHERE cn_iso_2 = 'BI';
 UPDATE static_countries SET cn_short_pl = 'Benin', cn_capital_pl = 'Porto-Novo' WHERE cn_iso_2 = 'BJ';
+UPDATE static_countries SET cn_short_pl = 'Saint-Barthélemy', cn_official_name_pl = 'Wspólnota Saint-Barthélemy', cn_capital_pl = 'Gustavia' WHERE cn_iso_2 = 'BL';
 UPDATE static_countries SET cn_short_pl = 'Bermudy', cn_capital_pl = 'Hamilton' WHERE cn_iso_2 = 'BM';
 UPDATE static_countries SET cn_short_pl = 'Brunei', cn_official_name_pl = 'Brunei Darussalam', cn_capital_pl = 'Bandar Seri Begawan' WHERE cn_iso_2 = 'BN';
 UPDATE static_countries SET cn_short_pl = 'Boliwia', cn_official_name_pl = 'Wielonarodowe Państwo Boliwia', cn_capital_pl = 'Sucre' WHERE cn_iso_2 = 'BO';
+UPDATE static_countries SET cn_short_pl = 'Bonaire, Sint Eustatius i Saba' WHERE cn_iso_2 = 'BQ';
 UPDATE static_countries SET cn_short_pl = 'Brazylia', cn_official_name_pl = 'Federacyjna Republika Brazylii', cn_capital_pl = 'Brasília' WHERE cn_iso_2 = 'BR';
 UPDATE static_countries SET cn_short_pl = 'Bahamy', cn_capital_pl = 'Nassau' WHERE cn_iso_2 = 'BS';
 UPDATE static_countries SET cn_short_pl = 'Bhutan', cn_official_name_pl = 'Wspólnota Bahamów', cn_capital_pl = 'Thimphu' WHERE cn_iso_2 = 'BT';
@@ -48,6 +51,7 @@ UPDATE static_countries SET cn_short_pl = 'Kolumbia', cn_official_name_pl = 'Rep
 UPDATE static_countries SET cn_short_pl = 'Kostaryka', cn_official_name_pl = 'Republika Kostaryki', cn_capital_pl = 'San José' WHERE cn_iso_2 = 'CR';
 UPDATE static_countries SET cn_short_pl = 'Kuba', cn_official_name_pl = 'Republika Kuby', cn_capital_pl = 'Hawana' WHERE cn_iso_2 = 'CU';
 UPDATE static_countries SET cn_short_pl = 'Republika Zielonego Przylądka', cn_capital_pl = 'Praia' WHERE cn_iso_2 = 'CV';
+UPDATE static_countries SET cn_short_pl = 'Curaçao', cn_capital_pl = 'Willemstad' WHERE cn_iso_2 = 'CW';
 UPDATE static_countries SET cn_short_pl = 'Wyspa Bożego Narodzenia', cn_capital_pl = 'Flying Fish Cove' WHERE cn_iso_2 = 'CX';
 UPDATE static_countries SET cn_short_pl = 'Cypr', cn_official_name_pl = 'Republika Cypryjska', cn_capital_pl = 'Nikozja' WHERE cn_iso_2 = 'CY';
 UPDATE static_countries SET cn_short_pl = 'Czechy', cn_official_name_pl = 'Republika Czeska', cn_capital_pl = 'Praga' WHERE cn_iso_2 = 'CZ';
@@ -75,6 +79,7 @@ UPDATE static_countries SET cn_short_pl = 'Wielka Brytania', cn_official_name_pl
 UPDATE static_countries SET cn_short_pl = 'Grenada', cn_capital_pl = 'Saint George’s' WHERE cn_iso_2 = 'GD';
 UPDATE static_countries SET cn_short_pl = 'Gruzia', cn_official_name_pl = 'Demokratyczna Republika Gruzji', cn_capital_pl = 'Tbilisi' WHERE cn_iso_2 = 'GE';
 UPDATE static_countries SET cn_short_pl = 'Gujana Francuska', cn_capital_pl = 'Kajenna' WHERE cn_iso_2 = 'GF';
+UPDATE static_countries SET cn_short_pl = 'Guernsey', cn_official_name_pl = 'Baliwat Guernsey', cn_capital_pl = 'Saint Peter Port' WHERE cn_iso_2 = 'GG';
 UPDATE static_countries SET cn_short_pl = 'Ghana', cn_official_name_pl = 'Republika Ghany', cn_capital_pl = 'Akra' WHERE cn_iso_2 = 'GH';
 UPDATE static_countries SET cn_short_pl = 'Gibraltar', cn_capital_pl = cn_short_pl WHERE cn_iso_2 = 'GI';
 UPDATE static_countries SET cn_short_pl = 'Grenlandia', cn_capital_pl = 'Nuuk' WHERE cn_iso_2 = 'GL';
@@ -89,6 +94,7 @@ UPDATE static_countries SET cn_short_pl = 'Guam', cn_short_pl = 'Hagåtña' WHER
 UPDATE static_countries SET cn_short_pl = 'Gwinea Bissau', cn_official_name_pl = 'Republika Gwinei Bissau', cn_capital_pl = 'Bissau' WHERE cn_iso_2 = 'GW';
 UPDATE static_countries SET cn_short_pl = 'Gujana', cn_official_name_pl = 'Kooperacyjna Republika Gujany', cn_capital_pl = 'Georgetown' WHERE cn_iso_2 = 'GY';
 UPDATE static_countries SET cn_short_pl = 'Hongkong', cn_official_name_pl = 'Specjalny Region Administracyjny Hongkong' WHERE cn_iso_2 = 'HK';
+UPDATE static_countries SET cn_short_pl = 'Wyspy Heard i McDonalda', cn_official_name_pl = 'Terytorium Wysp Heard i McDonalda' WHERE cn_iso_2 = 'HM';
 UPDATE static_countries SET cn_short_pl = 'Honduras', cn_official_name_pl = 'Republika Hondurasu' WHERE cn_iso_2 = 'HN';
 UPDATE static_countries SET cn_short_pl = 'Chorwacja', cn_official_name_pl = 'Republika Chorwacji', cn_capital_pl = 'Tegucigalpa' WHERE cn_iso_2 = 'HR';
 UPDATE static_countries SET cn_short_pl = 'Haiti', cn_official_name_pl = 'Republika Haiti', cn_capital_pl = 'Port-au-Prince' WHERE cn_iso_2 = 'HT';
@@ -96,12 +102,14 @@ UPDATE static_countries SET cn_short_pl = 'Węgry', cn_official_name_pl = 'Repub
 UPDATE static_countries SET cn_short_pl = 'Indonezja', cn_capital_pl = 'Dżakarta' WHERE cn_iso_2 = 'ID';
 UPDATE static_countries SET cn_short_pl = 'Irland', cn_capital_pl = 'Dublin' WHERE cn_iso_2 = 'IE';
 UPDATE static_countries SET cn_short_pl = 'Izrael', cn_capital_pl = 'Tel Awiw-Jafa' WHERE cn_iso_2 = 'IL';
+UPDATE static_countries SET cn_short_pl = 'Wyspa Man', cn_capital_pl = 'Douglas' WHERE cn_iso_2 = 'IM';
 UPDATE static_countries SET cn_short_pl = 'Indie', cn_official_name_pl = 'Republika Indii', cn_capital_pl = 'Nowe Delhi' WHERE cn_iso_2 = 'IN';
 UPDATE static_countries SET cn_short_pl = 'Brytyjskie Terytorium Oceanu Indyjskiego' WHERE cn_iso_2 = 'IO';
 UPDATE static_countries SET cn_short_pl = 'Irak', cn_official_name_pl = 'Republika Iraku', cn_capital_pl = 'Bagdad' WHERE cn_iso_2 = 'IQ';
 UPDATE static_countries SET cn_short_pl = 'Iran', cn_official_name_pl = 'Islamska Republika Iranu', cn_capital_pl = 'Teheran' WHERE cn_iso_2 = 'IR';
 UPDATE static_countries SET cn_short_pl = 'Islandia', cn_capital_pl = 'Reykjavík' WHERE cn_iso_2 = 'IS';
 UPDATE static_countries SET cn_short_pl = 'Włochy', cn_official_name_pl = 'Republika Włoska', cn_capital_pl = 'Rzym' WHERE cn_iso_2 = 'IT';
+UPDATE static_countries SET cn_short_pl = 'Jersey', cn_official_name_pl = 'Baliwat Jersey', cn_capital_pl = 'Saint Helier' WHERE cn_iso_2 = 'JE';
 UPDATE static_countries SET cn_short_pl = 'Jamajka', cn_capital_pl = 'Kingston' WHERE cn_iso_2 = 'JM';
 UPDATE static_countries SET cn_short_pl = 'Jordania', cn_official_name_pl = 'Jordańskie Królestwo Haszymidzkie', cn_capital_pl = 'Amman' WHERE cn_iso_2 = 'JO';
 UPDATE static_countries SET cn_short_pl = 'Japonia', cn_capital_pl = 'Tokjo' WHERE cn_iso_2 = 'JP';
@@ -130,6 +138,8 @@ UPDATE static_countries SET cn_short_pl = 'Libia', cn_official_name_pl = 'Wielka
 UPDATE static_countries SET cn_short_pl = 'Marokko', cn_official_name_pl = 'Królestwo Marokańskie', cn_capital_pl = 'Rabat' WHERE cn_iso_2 = 'MA';
 UPDATE static_countries SET cn_short_pl = 'Monako', cn_official_name_pl = 'Księstwo Monako', cn_capital_pl = cn_short_pl WHERE cn_iso_2 = 'MC';
 UPDATE static_countries SET cn_short_pl = 'Mołdawia', cn_official_name_pl = 'Republika Mołdawii', cn_capital_pl = 'Kiszyniów' WHERE cn_iso_2 = 'MD';
+UPDATE static_countries SET cn_short_pl = 'Czarnogóra', cn_official_name_pl = 'Republika Czarnogóry', cn_capital_pl = 'Podgorica' WHERE cn_iso_2 = 'ME';
+UPDATE static_countries SET cn_short_pl = 'Saint-Martin', cn_official_name_pl = 'Wspólnota Saint-Martin', cn_capital_pl = 'Marigot' WHERE cn_iso_2 = 'MF';
 UPDATE static_countries SET cn_short_pl = 'Madagaskar', cn_official_name_pl = 'Republika Madagaskaru', cn_capital_pl = 'Antananarywa' WHERE cn_iso_2 = 'MG';
 UPDATE static_countries SET cn_short_pl = 'Wyspy Marshalla', cn_official_name_pl = 'Republika Wysp Marshalla', cn_capital_pl = 'Majuro' WHERE cn_iso_2 = 'MH';
 UPDATE static_countries SET cn_short_pl = 'Macedonia', cn_official_name_pl = 'Republika Macedonii', cn_capital_pl = 'Skopje' WHERE cn_iso_2 = 'MK';
@@ -171,12 +181,14 @@ UPDATE static_countries SET cn_short_pl = 'Polska', cn_official_name_pl = 'Rzecz
 UPDATE static_countries SET cn_short_pl = 'Saint-Pierre i Miquelon', cn_official_name_pl = 'Wspólnota Terytorialna Saint-Pierre i Miquelon', cn_capital_pl = 'Saint-Pierre' WHERE cn_iso_2 = 'PM';
 UPDATE static_countries SET cn_short_pl = 'Pitcairn', cn_capital_pl = 'Adamstown' WHERE cn_iso_2 = 'PN';
 UPDATE static_countries SET cn_short_pl = 'Portoryko', cn_capital_pl = 'San Juan' WHERE cn_iso_2 = 'PR';
+UPDATE static_countries SET cn_short_pl = 'Autonomia Palestyńska', cn_official_name_pl = 'Palestyńskie Władze Narodowe', cn_capital_pl = 'Ramallah' WHERE cn_iso_2 = 'PS';
 UPDATE static_countries SET cn_short_pl = 'Portugalia', cn_official_name_pl = 'Republika Portugalska', cn_capital_pl = 'Lizbona' WHERE cn_iso_2 = 'PT';
 UPDATE static_countries SET cn_short_pl = 'Palau', cn_official_name_pl = 'Republika Palau', cn_capital_pl = 'Ngerulmud' WHERE cn_iso_2 = 'PW';
 UPDATE static_countries SET cn_short_pl = 'Paragwaj', cn_official_name_pl = 'Republika Paragwaju', cn_capital_pl = 'Asunción' WHERE cn_iso_2 = 'PY';
 UPDATE static_countries SET cn_short_pl = 'Katar', cn_capital_pl = 'Doha' WHERE cn_iso_2 = 'QA';
 UPDATE static_countries SET cn_short_pl = 'Reunion', cn_capital_pl = 'Saint-Denis' WHERE cn_iso_2 = 'RE';
 UPDATE static_countries SET cn_short_pl = 'Rumunia', cn_capital_pl = 'Bukareszt' WHERE cn_iso_2 = 'RO';
+UPDATE static_countries SET cn_short_pl = 'Serbia', cn_official_name_pl = 'Republika Serbii', cn_capital_pl = 'Belgrad' WHERE cn_iso_2 = 'RS';
 UPDATE static_countries SET cn_short_pl = 'Rosja', cn_official_name_pl = 'Federacja Rosyjska', cn_capital_pl = 'Moskwa' WHERE cn_iso_2 = 'RU';
 UPDATE static_countries SET cn_short_pl = 'Rwanda', cn_official_name_pl = 'Republika Rwandy', cn_capital_pl = 'Kigali' WHERE cn_iso_2 = 'RW';
 UPDATE static_countries SET cn_short_pl = 'Arabia Saudyjska', cn_official_name_pl = 'Królestwo Arabii Saudyjskiej', cn_capital_pl = 'Rijad' WHERE cn_iso_2 = 'SA';
@@ -194,8 +206,10 @@ UPDATE static_countries SET cn_short_pl = 'San Marino', cn_official_name_pl = 'N
 UPDATE static_countries SET cn_short_pl = 'Senegal', cn_official_name_pl = 'Republika Senegalu', cn_capital_pl = 'Dakar' WHERE cn_iso_2 = 'SN';
 UPDATE static_countries SET cn_short_pl = 'Somalia', cn_official_name_pl = 'Republika Somalijska', cn_capital_pl = 'Mogadiszu' WHERE cn_iso_2 = 'SO';
 UPDATE static_countries SET cn_short_pl = 'Surinam', cn_official_name_pl = 'Republika Surinam', cn_capital_pl = 'Paramaribo' WHERE cn_iso_2 = 'SR';
+UPDATE static_countries SET cn_short_pl = 'Sudan Południowy' WHERE cn_iso_2 = 'SS';
 UPDATE static_countries SET cn_short_pl = 'Wyspy Świętego Tomasza i Książęca', cn_official_name_pl = 'Demokratyczna Republika Wysp Świętego Tomasza i Książęce', cn_capital_pl = 'São Tomé' WHERE cn_iso_2 = 'ST';
 UPDATE static_countries SET cn_short_pl = 'Salwador', cn_official_name_pl = 'Republika Salwadoru', cn_capital_pl = 'San Salvador' WHERE cn_iso_2 = 'SV';
+UPDATE static_countries SET cn_short_pl = 'Sint Maarten', cn_capital_pl = 'Philipsburg' WHERE cn_iso_2 = 'SX';
 UPDATE static_countries SET cn_short_pl = 'Syria', cn_official_name_pl = 'Syryjska Republika Arabska', cn_capital_pl = 'Damaszek' WHERE cn_iso_2 = 'SY';
 UPDATE static_countries SET cn_short_pl = 'Suazi', cn_official_name_pl = 'Królestwo Suazi', cn_capital_pl = 'Mbabane' WHERE cn_iso_2 = 'SZ';
 UPDATE static_countries SET cn_short_pl = 'Turks i Caicos', cn_capital_pl = 'Cockburn Town' WHERE cn_iso_2 = 'TC';
@@ -229,25 +243,12 @@ UPDATE static_countries SET cn_short_pl = 'Wietnam', cn_official_name_pl = 'Socj
 UPDATE static_countries SET cn_short_pl = 'Vanuatu', cn_official_name_pl = 'Republika Vanuatu', cn_capital_pl = 'Port Vila' WHERE cn_iso_2 = 'VU';
 UPDATE static_countries SET cn_short_pl = 'Wallis i Futuna', cn_official_name_pl = 'Terytorium Wysp Wallis i Futuna', cn_capital_pl = 'Mata Utu' WHERE cn_iso_2 = 'WF';
 UPDATE static_countries SET cn_short_pl = 'Samoa', cn_official_name_pl = 'Niezależne Państwo Samoa', cn_capital_pl = 'Apia' WHERE cn_iso_2 = 'WS';
+UPDATE static_countries SET cn_short_pl = 'Kosowo', cn_official_name_pl = 'Republika Kosowa', cn_capital_pl = 'Prisztina' WHERE cn_iso_2 ='XK';
 UPDATE static_countries SET cn_short_pl = 'Jemen', cn_official_name_pl = 'Republika Jemeńska', cn_capital_pl = 'Sana' WHERE cn_iso_2 = 'YE';
 UPDATE static_countries SET cn_short_pl = 'Majotta', cn_official_name_pl = 'Departament Zamorski Francji Majotta', cn_capital_pl = 'Mamoudzou' WHERE cn_iso_2 = 'YT';
 UPDATE static_countries SET cn_short_pl = 'Republika Południowej Afryki', cn_capital_pl = 'Pretoria' WHERE cn_iso_2 = 'ZA';
 UPDATE static_countries SET cn_short_pl = 'Zambia', cn_official_name_pl = 'Republika Zambii', cn_capital_pl = 'Lusaka' WHERE cn_iso_2 = 'ZM';
 UPDATE static_countries SET cn_short_pl = 'Zimbabwe', cn_official_name_pl = 'Republika Zimbabwe', cn_capital_pl = 'Harare' WHERE cn_iso_2 = 'ZW';
-UPDATE static_countries SET cn_short_pl = 'Autonomia Palestyńska', cn_official_name_pl = 'Palestyńskie Władze Narodowe', cn_capital_pl = 'Ramallah' WHERE cn_iso_2 = 'PS';
-UPDATE static_countries SET cn_short_pl = 'Wyspy Alandzkie', cn_capital_pl = 'Maarianhamina' WHERE cn_iso_2 = 'AX';
-UPDATE static_countries SET cn_short_pl = 'Wyspy Heard i McDonalda', cn_official_name_pl = 'Terytorium Wysp Heard i McDonalda' WHERE cn_iso_2 = 'HM';
-UPDATE static_countries SET cn_short_pl = 'Czarnogóra', cn_official_name_pl = 'Republika Czarnogóry', cn_capital_pl = 'Podgorica' WHERE cn_iso_2 = 'ME';
-UPDATE static_countries SET cn_short_pl = 'Serbia', cn_official_name_pl = 'Republika Serbii', cn_capital_pl = 'Belgrad' WHERE cn_iso_2 = 'RS';
-UPDATE static_countries SET cn_short_pl = 'Jersey', cn_official_name_pl = 'Baliwat Jersey', cn_capital_pl = 'Saint Helier' WHERE cn_iso_2 = 'JE';
-UPDATE static_countries SET cn_short_pl = 'Guernsey', cn_official_name_pl = 'Baliwat Guernsey', cn_capital_pl = 'Saint Peter Port' WHERE cn_iso_2 = 'GG';
-UPDATE static_countries SET cn_short_pl = 'Wyspa Man', cn_capital_pl = 'Douglas' WHERE cn_iso_2 = 'IM';
-UPDATE static_countries SET cn_short_pl = 'Saint-Martin', cn_official_name_pl = 'Wspólnota Saint-Martin', cn_capital_pl = 'Marigot' WHERE cn_iso_2 = 'MF';
-UPDATE static_countries SET cn_short_pl = 'Saint-Barthélemy', cn_official_name_pl = 'Wspólnota Saint-Barthélemy', cn_capital_pl = 'Gustavia' WHERE cn_iso_2 = 'BL';
-UPDATE static_countries SET cn_short_pl = 'Bonaire, Sint Eustatius i Saba' WHERE cn_iso_2 = 'BQ';
-UPDATE static_countries SET cn_short_pl = 'Curaçao', cn_capital_pl = 'Willemstad' WHERE cn_iso_2 = 'CW';
-UPDATE static_countries SET cn_short_pl = 'Sint Maarten', cn_capital_pl = 'Philipsburg' WHERE cn_iso_2 = 'SX';
-UPDATE static_countries SET cn_short_pl = 'Sudan Południowy' WHERE cn_iso_2='SS';
 UPDATE static_countries SET cn_official_name_pl = cn_short_pl WHERE cn_official_name_pl='' OR cn_official_name_pl IS NULL;
 
 ## Update for data inserted previously by static_info_tables
