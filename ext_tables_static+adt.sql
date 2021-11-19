@@ -73,7 +73,7 @@ UPDATE static_countries SET cn_short_pl = 'Francja', cn_official_name_pl = 'Repu
 UPDATE static_countries SET cn_short_pl = 'Gabon', cn_official_name_pl = 'Republika Gabońska', cn_capital_pl = 'Libreville' WHERE cn_iso_2 = 'GA';
 UPDATE static_countries SET cn_short_pl = 'Wielka Brytania', cn_official_name_pl = 'Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej', cn_capital_pl = 'Londyn' WHERE cn_iso_2 = 'GB';
 UPDATE static_countries SET cn_short_pl = 'Grenada', cn_capital_pl = 'Saint George’s' WHERE cn_iso_2 = 'GD';
-UPDATE static_countries SET cn_short_pl = 'Gruzia', cn_official_name_pl = 'Demokratyczna Republika Gruzji', cn_capital_pl = 'Tbilisi' WHERE cn_iso_2 = 'GE';
+UPDATE static_countries SET cn_short_pl = 'Gruzja', cn_official_name_pl = 'Demokratyczna Republika Gruzji', cn_capital_pl = 'Tbilisi' WHERE cn_iso_2 = 'GE';
 UPDATE static_countries SET cn_short_pl = 'Gujana Francuska', cn_capital_pl = 'Kajenna' WHERE cn_iso_2 = 'GF';
 UPDATE static_countries SET cn_short_pl = 'Ghana', cn_official_name_pl = 'Republika Ghany', cn_capital_pl = 'Akra' WHERE cn_iso_2 = 'GH';
 UPDATE static_countries SET cn_short_pl = 'Gibraltar', cn_capital_pl = cn_short_pl WHERE cn_iso_2 = 'GI';
@@ -94,7 +94,7 @@ UPDATE static_countries SET cn_short_pl = 'Chorwacja', cn_official_name_pl = 'Re
 UPDATE static_countries SET cn_short_pl = 'Haiti', cn_official_name_pl = 'Republika Haiti', cn_capital_pl = 'Port-au-Prince' WHERE cn_iso_2 = 'HT';
 UPDATE static_countries SET cn_short_pl = 'Węgry', cn_official_name_pl = 'Republika Węgierska', cn_capital_pl = 'Budapeszt' WHERE cn_iso_2 = 'HU';
 UPDATE static_countries SET cn_short_pl = 'Indonezja', cn_capital_pl = 'Dżakarta' WHERE cn_iso_2 = 'ID';
-UPDATE static_countries SET cn_short_pl = 'Irland', cn_capital_pl = 'Dublin' WHERE cn_iso_2 = 'IE';
+UPDATE static_countries SET cn_short_pl = 'Irlandia', cn_capital_pl = 'Dublin' WHERE cn_iso_2 = 'IE';
 UPDATE static_countries SET cn_short_pl = 'Izrael', cn_capital_pl = 'Tel Awiw-Jafa' WHERE cn_iso_2 = 'IL';
 UPDATE static_countries SET cn_short_pl = 'Indie', cn_official_name_pl = 'Republika Indii', cn_capital_pl = 'Nowe Delhi' WHERE cn_iso_2 = 'IN';
 UPDATE static_countries SET cn_short_pl = 'Brytyjskie Terytorium Oceanu Indyjskiego' WHERE cn_iso_2 = 'IO';
