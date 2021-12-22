@@ -25,6 +25,7 @@ namespace SJBR\StaticInfoTablesPl;
  *  This copyright notice MUST APPEAR in all copies of the script!
  */
 
+use Exception;
 use SJBR\StaticInfoTables\Cache\ClassCacheManager;
 use SJBR\StaticInfoTables\Utility\DatabaseUpdateUtility;
 use TYPO3\CMS\Core\Utility\GeneralUtility;
@@ -43,6 +44,7 @@ class ext_update
      * Main function, returning the HTML content
      *
      * @return string HTML
+     * @throws Exception
      */
     public function main()
     {
